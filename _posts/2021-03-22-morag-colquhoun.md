@@ -1,0 +1,9 @@
+---
+title: "Forum #19 - Morag Colquhoun with Professor Julian Henriques"
+---
+
+Morag Colquhoun will present some excerpts of new writing exploring sub/versions of rhythm together with extracts from Ralph Ellison's Invisible Man (1947) and a passage from Architecture and the Text: The (S)crypts of Joyce and Piranesi by Jennifer Bloomer (1993).
+
+Morag Colquhoun is an artist based in mid Wales. As a PhD researcher in the Art Department at Goldsmiths, her project, Trofannolismo, reimagines a planetary Tropicália from a perspective of rural Wales. Working with Welsh communities while focusing on communities in South America that are known to her, recent manifestations of her project include: Eden (2019), commissioned for Ty Pawb, Wrexham, and the National Eisteddfod of Wales, 2020.
+
+Professor Julian Henriques is convenor of the MA Cultural Studies programme, director of the Topology Research Unit and a co-founder of the Sound System Outernational practice research group in the Department of Media, Communications and Cultural Studies, Goldsmiths, University of London. Prior to this, Julian ran the film and television department at CARIMAC at the University of the West Indies, Kingston, Jamaica. His credits as a writer and director include the reggae musical feature film Babymother and We the Ragamuffin short. Julian researches street cultures, music and technologies and is interested in the uses of sound as a critical and creative tool. His sound sculptures include Knots & Donuts (2011) at Tate Modern and his books include Changing the Subject (1998), Sonic Bodies (2011) and Sonic Media (forthcoming). He is currently the PI on an ERC Consolidator research grant, Sonic Street Technologies.
