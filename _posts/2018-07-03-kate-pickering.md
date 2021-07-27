@@ -1,5 +1,6 @@
 ---
 author: katarina
+title: "Forum #2 - Kate Pickering"
 ---
 Artist and PhD researcher (Goldsmiths) Kate Pickering presents the script of a recent performance piece entitled Cell alongside Cell: an introduction to a Response by poet, writer and researcher Holly Corfield Carr (University of Cambridge).
 

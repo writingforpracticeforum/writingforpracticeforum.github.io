@@ -1,5 +1,6 @@
 ---
 author: katarina
+title: "Forum #1 - Rowena Harris"
 ---
 
 Artist and PhD researcher (Goldsmiths) Rowena Harris presents a short creative text entitled How to be Slow together with Thinking Impossibly (a guide) - a publication which formed part of an installation at her recent exhibition, and presents for discussion the title chapter from author Dodie Bellamy’s book When the Sick Rule the World.
