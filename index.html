@@ -10,18 +10,17 @@ title: Home
     <title>Home</title>
   </head>
   <body>
-    <h1>The Writing for Practice Forum</h1>
 
-<img src="/assets/images/wfpf-image.jpg" alt="Forum #8 - Nina Wakeford with Karl Baker">
+    <img src="/assets/images/wfpf-image.jpg" alt="Forum #8 - Nina Wakeford with Karl Baker">
 
-<br><br>
+    <br><br>
 
-{% for post in site.posts %}
+    {% for post in site.posts %}
     
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.excerpt }}
+     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+     {{ post.excerpt }}
     
-{% endfor %}
+    {% endfor %}
   
   </body>
 </html>
