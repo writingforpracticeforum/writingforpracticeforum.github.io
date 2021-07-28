@@ -11,13 +11,19 @@ title: Forums
   </head>
   <body>
 
-    <img src="/assets/images/wfpf-image.jpg" alt="Forum #8 - Nina Wakeford with Karl Baker">
+    <figure>
 
-    <br><br>
+      <img src="/assets/images/wfpf-image.jpg" alt="Forum #8 - Nina Wakeford with Karl Baker">
+      <figcaption>Forum #8 - Nina Wakeford with Karl Baker</figcaption>
+      
+    </figure>
+
+    <br>
 
     {% for post in site.posts %}
-    
-     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
      {{ post.excerpt }}
     
     {% endfor %}
