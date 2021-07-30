@@ -4,7 +4,7 @@ title: "Forum #24 - Dani Smith with Zoë Mendelson"
 
 Dani Smith will present excerpts from a collection of d​iary entries detailing her time returning home to Los Banos, a small farming town in central California, for Christmas 2020. Writings that emerged from this time, observe the bending, breaking, and adjusting of her psyche as it reacts to the shape shifting home environment and growing pains of evolving family dynamics. 
 
-[Link to texts](https://www.dropbox.com/sh/95h8b3uyfw6mxs5/AADAF4XMhtaAkIstkxtseHnba?dl=0)
+<br>
 
 **Dani Smith** is a painter and writer in her first year of PhD research at Goldsmiths, University of London. Her research project: *So the Cursed May Conjure*, is a spiritual exploration of selfhood that engages the mechanics of black feminism and autotheory to query a range of metaphysical trauma as withstanding effects of normalised violences against black female bodies. Converging intimate storytelling and multidisciplinary painting methods, Dani’s practice illustrates examples of modern black female misrepresentations, its various forms of consequences, and executions of resistance against prevailing ideologies. 
 

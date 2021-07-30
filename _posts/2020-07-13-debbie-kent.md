@@ -3,8 +3,6 @@ title: "Forum #16 - Debbie Kent with Helen Frosi"
 ---
 
 Artist and PhD researcher Debbie Kent (Goldsmiths) will present some text that wrestles with the difficulty of describing and communicating the experience of soundscapes. Interdisciplinary artist, curator and producer Helen Frosi joins us as respondent.
-
-[Link to texts](https://www.dropbox.com/sh/fz1ip0ec6esspei/AADD2vGU6y0QbZLBEaWzAXrua?dl=0)
  
 **Debbie Kent**: I work with sound, cities and walking. I'm currently making a set of audio walks tracking transformations in the urban soundscape for a practise-based PhD in the Visual Cultures department. I work with the spontaneous and transient; with disassembling language and retrieving detritus from the cracks in the everyday. In the past I've exchanged words from Bruce Springsteen lyrics with members of the public, reassembled news stories using only the conjunctions and articles, and read from the writings of George Perec after putting the pages through a shredder. Recently I have been working in collaboration with Russian artist Alisa Oleva as the Demolition Project, making work that explores ways of reimagining the city and our relationship with it, in London, Berlin, Belgrade, Vilnius, Ekaterinburg and Moscow. – [dejakay.co.uk](http://www.dejakay.co.uk)
 

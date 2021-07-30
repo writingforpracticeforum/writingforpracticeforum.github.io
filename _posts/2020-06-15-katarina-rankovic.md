@@ -4,8 +4,6 @@ title: "Forum #15 - Katarina Ranković with Andy Holden"
 
 Artist and PhD researcher Katarina Ranković (Goldsmiths) will present an extract from her novel *Anomaline*, a philosophical romance about a solitary protagonist navigating the vacated vestiges of a cliche literary world, and artist and musician Andy Holden joins us as respondent in discussion. 
 
-[Link to texts](https://www.dropbox.com/sh/9ffvbpm93dgir8l/AADbp-E4qG0Lkb7gsqYzLrERa?dl=0)
-
 **Katarina Ranković** is a text-based artist exploring the extent to which personhood is encoded in character, and whether fictional characters can be reverse-engineered into something approximating persons; into literary prototypes of general artificial intelligence. Recent projects involve *Anomaline*, a novel about a lethargic antiperson; and using personality tests on her performed fictional characters, in a bid to problematise the distinction between 'genuine' being and 'disingenuous' performing. As a Serb-born-in-Yorkshire-raised-in-Norway, both the theory and practice of Katarina's work originates from the daily necessity of inhabiting and switching between many selves. – [katarinarankovic.art](http://www.katarinarankovic.art)
 
 **Andy Holden** (b. 1982) artist, musician and cartoon was born and now lives and works in Bedford, UK. Holden has worked collaboratively with his father Peter Holden, an orthologist, to produce lectures on birds and the recent Artangel project Natural Selection. He regularly performs and releases records with his band *The Grubby Mitts* and runs the project space *Ex-Baldessarre* in Bedford. 

@@ -4,8 +4,6 @@ title: "Forum #22 - Emma Bolland with Ceri Morgan"
 
 Emma Bolland will present *Instructions from Light*, a hybrid novella / long poem that turns on a translation and 'writing through' of Louis Delluc's impressionist screenplay *Le Silence* (1920). This work will be considered alongside extracts from texts by Anne Carson and Maria Fusco.
 
-[Link to texts](https://www.dropbox.com/sh/v4f31k72j4rfuwo/AADFrUdfn3hLq-bKKbS28Vlua?dl=0)
-
 **Emma Bolland** is an artist and writer whose practice includes an investigation of the problematics and ambiguities of an expanded understanding of translation—between languages and language codes, and between modes of writing, reading and speaking. Emma is a co-editor at Gordian Projects, an Associate Lecturer at Sheffield Hallam University, co-runner of Radio oHPo, and were the 2019 #*interrupteur* artist-writer in residence for the School of Arts and Humanities at the University of Sheffield. Recent publications include 'Subjects of the Gaze: script development as performance’, co-authored with Louise Sawtell, in *Script Development: Critical Approaches, Creative Practices, International Perspectives*, eds. Craig Batty and Stayci Taylor (Palgrave MacMillan 2021), ‘The Fiction of the Essay: Of Abstraction, Texts, Communication, and Loss’, co-authored with Elizabeth Chakrabarty, in *Imagined Spaces*, eds. Gail Low and Kirsty Young (Voyages Out, 2020), and *Over, In, and Under* (Dostoevsky Wannabe, 2019). A bilingual English/German audio work will be included in the forthcoming exhibition [imPERFEKT —eine Ausstellung zur Barrierefreiheit](https://protect-eu.mimecast.com/s/CZ9ACvZ9NFqmZ7WcQmdGZ?domain=mewo-kunsthalle.de), MEWO Kunsthall, Memmingen, Germany. – [emmabolland.com](http://www.emmabolland.com)
  
 

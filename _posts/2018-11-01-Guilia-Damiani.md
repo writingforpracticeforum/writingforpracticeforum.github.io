@@ -5,7 +5,7 @@ title: "Forum #5 - Guilia Damiani with Kristen Kreider"
 
 Writer and PhD researcher Guilia Damiani (Goldsmiths) presents new writing entitled *As Enchentes Entre Os Incêndios* (trans. *the water rivulets among the fire) alongside an excerpt from *The Passion According to GH* by writer Clarice Lispector, and artist, writer and Professor of Fine Art Kristen Kreider joins us in discussion.
 
-[Link to texts](https://www.dropbox.com/sh/rvt7r3v24tlkoby/AADxevSgxdqC1eOzVqfZMDGga?dl=0)
+<br>
 
 **Guilia Damiani** is a writer and curator based in London, completing a PhD in Art at Goldsmiths University (AHRC scholarship). She specialises in performance and collaborates with artists to create performances from archival and feminist practices. She is currently a Research and Writing Fellow at the institution *If I Can’t Dance, I Don’t Want to be Part of Your Revolution*, Amsterdam. – [giuliadamiani.eu](http://www.giuliadamiani.eu)
 

@@ -4,8 +4,6 @@ title: "Forum #20 - Daniela Cascella with Jennifer Hodgson"
 
 Daniela (Sheffield Hallam University) will present an excerpt from her ongoing project on Chimeric Writing, along with extracts from [*Voice of Hearing*](https://squint.press/01a_viviandarroch-lozowski_voiceofhearing/) by Vivian Darroch-Lozowski, Squint Press, 2020 (1984) and *Mundus imaginalis or The Imaginary and the Imaginal* by Henry Corbin (1972).
 
-[Link to texts](https://www.dropbox.com/sh/tjjuvpwi169vr3k/AACJdB_uWZQ5ibciQ0WQ93axa?dl=0)
-
 **Daniela Cascella** is an Italian writer whose texts articulate tensions and points of contact between the literary and the sonic, and propose a range of approaches to creative-critical writing through experiments with form and voice. She is the author, in English, of *Singed* (Equus Press, 2017), F.M.R.L. (Zer0 Books, 2015), *En Abîme* (Zer0 Books, 2012); and in Italian, of *The Cure: The Edge of the World* (Arcana, 2008), and *Scultori di suono* (Tuttle, 2005). Daniela lectures and publishes internationally, and often collaborates with musicians and artists in readings and editorial/curatorial projects. She is an Associate Lecturer in the MA Sound Arts at LCC / University of the Arts London, and is completing her Ph.D. at Sheffield Hallam University where she has been developing a project around Chimeric Writing that will result in two books, the former of which is forthcoming on [Risking Education / Punctum Books](https://punctumbooks.com/imprints/risking-education/). – [danielacascella.com](http://www.danielacascella.com)
 
 
